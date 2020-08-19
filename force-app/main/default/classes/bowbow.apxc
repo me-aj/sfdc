@@ -1,0 +1,6 @@
+public class bowbow {
+    public static String getBowBow(String str) {
+        
+        return str;
+    }
+}
