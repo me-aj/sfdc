@@ -1,6 +1,6 @@
 public class bowbow {
     public static String getBowBow(String str) {
-        
+        // this is an example
         return str;
     }
 }
